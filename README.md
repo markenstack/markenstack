@@ -1,35 +1,18 @@
 <h1>Hi, I'm Marken 👋</h1>
 
 <p>
-  Full-Stack Engineer working across frontend, backend, cloud infrastructure,
-  distributed systems, and AI-assisted applications.
+  I'm a Full-Stack Engineer working across frontend and backend development,
+  cloud services, distributed systems, and AI-assisted features.
+</p>
+
+<p>
+  I like working on real applications, understanding how different parts of
+  a system fit together, and finding practical ways to build or improve them.
 </p>
 
 <hr>
 
-<h2>About</h2>
-
-<p>
-  I have 8+ years of experience building and maintaining web applications
-  across e-commerce, telecommunications, financial services, insurance,
-  healthcare, and media.
-</p>
-
-<p>
-  My work covers both frontend and backend development, APIs, integrations,
-  databases, cloud services, and distributed systems. I also work with
-  performance, security, testing, and production support as part of the
-  development lifecycle.
-</p>
-
-<p>
-  More recently, I have been working with AI-powered features and automation
-  integrated into existing products and workflows.
-</p>
-
-<hr>
-
-<h2>Technologies</h2>
+<h2>🛠 Technologies</h2>
 
 <h3>Frontend</h3>
 
@@ -61,7 +44,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
 </p>
 
@@ -81,38 +64,27 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/LLM_Integration-4A5240?style=flat-square">
-  <img src="https://img.shields.io/badge/Workflow_Automation-4A5240?style=flat-square">
+  <img src="https://img.shields.io/badge/Automation-4A5240?style=flat-square">
 </p>
 
 <hr>
 
-<h2>Engineering Areas</h2>
+<h2>💻 What I Work On</h2>
 
 <ul>
-  <li>Full-stack web application development</li>
+  <li>Frontend and backend web applications</li>
   <li>REST APIs and GraphQL</li>
-  <li>Microservices and distributed systems</li>
-  <li>Event-driven architecture</li>
-  <li>Cloud-native applications</li>
-  <li>System design and data modeling</li>
-  <li>Performance and scalability</li>
-  <li>Testing and production reliability</li>
-  <li>AI integration and workflow automation</li>
+  <li>Microservices and event-driven systems</li>
+  <li>Cloud services and containerized applications</li>
+  <li>Database design and application performance</li>
+  <li>Authentication and application security</li>
+  <li>Testing, CI/CD, and production improvements</li>
+  <li>AI integrations and workflow automation</li>
 </ul>
 
 <hr>
 
-<h2>Current Focus</h2>
-
-<p>
-  I am currently interested in scalable web applications, distributed systems,
-  cloud architecture, event-driven systems, and practical AI integration
-  within software products.
-</p>
-
-<hr>
-
-<h2>Connect</h2>
+<h2>📫 Connect</h2>
 
 <p>
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
