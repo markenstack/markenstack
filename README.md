@@ -1,95 +1,121 @@
-# Hi there, I'm Marken Myftaraj 👋
+<h1>Hi, I'm Marken 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** focused on building scalable web applications, cloud-native solutions, and distributed systems that deliver real business value.
-
----
-
-## 🚀 About Me
-
-<div style="display: flex; align-items: flex-start;">
-  <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li>I am a Full-Stack Engineer with 8+ years of experience building and maintaining scalable applications across industries including healthcare, finance, retail, telecommunications, and media.</li>
-    <li>My expertise spans modern frontend technologies such as React, Angular, Next.js, and Vue.js, alongside backend development with Node.js, NestJS, Laravel, Symfony, and Express.js.</li>
-    <li>I specialize in JavaScript, TypeScript, and PHP, with hands-on experience designing cloud-native applications, APIs, microservices, and distributed systems.</li>
-    <li>My technical background includes AWS, Google Cloud Platform (GCP), Docker, Kafka, RabbitMQ, CI/CD automation, and modern software architecture practices.</li>
-    <li>I have worked with both relational and NoSQL databases, including PostgreSQL, MySQL, MongoDB, and Redis, focusing on performance, scalability, and reliability.</li>
-    <li>I have also contributed to intelligent automation initiatives and AI-powered capabilities integrated into modern web applications to improve user experiences and business workflows.</li>
-    <li>I enjoy solving complex technical challenges, collaborating with cross-functional teams, and continuously learning new technologies and engineering practices.</li>
-    <li>Outside of work, I enjoy contributing to open-source projects, sharing knowledge, and engaging with the developer community.</li>
-  </ul>
-</div>
-
----
-
-
-
-## 🛠 Technologies & Tools
-
-<p align="center" style="font-size: 1.5em;">
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-  <!-- Distributed Systems -->
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-  <!-- AI & Automation -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Automation-00A67E?style=for-the-badge"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
+<p>
+  Full-Stack Engineer working across frontend, backend, cloud infrastructure,
+  distributed systems, and AI-assisted applications.
 </p>
 
----
-## 🚀 What I Bring to the Table
+<hr>
 
-<div style="display: flex; align-items: flex-start;">
-  <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li><strong>Scalable Solutions:</strong> Designing and building reliable applications that grow with business needs.</li>
-    <li><strong>Cloud & Distributed Systems:</strong> Experience delivering cloud-native and event-driven architectures using modern technologies.</li>
-    <li><strong>Engineering Excellence:</strong> Strong focus on clean architecture, maintainable code, performance, and software quality.</li>
-    <li><strong>Innovation & Automation:</strong> Leveraging modern technologies, intelligent automation, and AI-powered capabilities to solve real-world challenges.</li>
-    <li><strong>Collaboration:</strong> Working closely with cross-functional teams to transform ideas into successful products.</li>
-    <li><strong>Continuous Growth:</strong> Always learning, improving, and exploring new technologies to deliver better solutions.</li>
-  </ul>
-</div>
+<h2>About</h2>
 
----
+<p>
+  I have 8+ years of experience building and maintaining web applications
+  across e-commerce, telecommunications, financial services, insurance,
+  healthcare, and media.
+</p>
 
-## 📫 Let's Connect
+<p>
+  My work covers both frontend and backend development, APIs, integrations,
+  databases, cloud services, and distributed systems. I also work with
+  performance, security, testing, and production support as part of the
+  development lifecycle.
+</p>
 
-I'm always interested in discussing software engineering, cloud technologies, distributed systems, and innovative product ideas. Feel free to explore my repositories or connect with me.
+<p>
+  More recently, I have been working with AI-powered features and automation
+  integrated into existing products and workflows.
+</p>
 
-⭐ Thanks for visiting my profile!
+<hr>
+
+<h2>Technologies</h2>
+
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+<h3>Backend</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
+
+<h3>Data & Messaging</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+</p>
+
+<h3>Cloud & DevOps</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+<h3>AI & Automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM_Integration-4A5240?style=flat-square">
+  <img src="https://img.shields.io/badge/Workflow_Automation-4A5240?style=flat-square">
+</p>
+
+<hr>
+
+<h2>Engineering Areas</h2>
+
+<ul>
+  <li>Full-stack web application development</li>
+  <li>REST APIs and GraphQL</li>
+  <li>Microservices and distributed systems</li>
+  <li>Event-driven architecture</li>
+  <li>Cloud-native applications</li>
+  <li>System design and data modeling</li>
+  <li>Performance and scalability</li>
+  <li>Testing and production reliability</li>
+  <li>AI integration and workflow automation</li>
+</ul>
+
+<hr>
+
+<h2>Current Focus</h2>
+
+<p>
+  I am currently interested in scalable web applications, distributed systems,
+  cloud architecture, event-driven systems, and practical AI integration
+  within software products.
+</p>
+
+<hr>
+
+<h2>Connect</h2>
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:markentechs@gmail.com">Email</a>
+</p>
