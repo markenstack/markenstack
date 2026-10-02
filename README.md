@@ -87,7 +87,7 @@
 <h2>📫 Connect</h2>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/markenprofile/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:markentechs@gmail.com">Email</a>
 </p>
